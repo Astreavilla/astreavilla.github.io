@@ -1,4 +1,4 @@
-# antoniskp.github.io
+# astreavilla.github.io
 
-This is my personal website.
+This is presentation website of villa Astrea, Perachori, Ithaca, Greece.
 Please feel free to commit any changes.
